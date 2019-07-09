@@ -23,7 +23,7 @@ most of us use windows, icons, mice, and pointers.
 These technologies didn't become widespread until the 1980s,
 but their roots go back to Doug Engelbart's work in the 1960s,
 which you can see in what has been called
-"[The Mother of All Demos](http://www.youtube.com/watch?v=a11JDLBXtPQ)".
+"[The Mother of All Demos](https://www.youtube.com/watch?v=yJDv-zdhzMY)".
 
 Going back even further,
 the only way to interact with early computers was to rewire them.
@@ -34,9 +34,9 @@ These devices only allowed input and output of the letters, numbers, and punctua
 so programming languages and interfaces had to be designed around that constraint.
 
 This kind of interface is called a
-**command-line interface**, or CLI,
+**command-line interface**, or **CLI**,
 to distinguish it from a
-**graphical user interface**, or GUI,
+**graphical user interface**, or **GUI**,
 which most people now use.
 The heart of a CLI is a **read-evaluate-print loop**, or REPL:
 when the user types a command and then presses the enter (or return) key,
